@@ -3,11 +3,11 @@
   "bot-account": {
     "username": "TheBest1616",
     "password": "",
-    "type": "offline"
+    "type": "online"
   },
   "server": {
     "ip": "mrmax.falix.gg",
-    "port": ,
+    "port":  "21793",
     "version": "1.21.11",
     "try-creative": false
   },
@@ -31,7 +31,7 @@
       "repeat": true,
       "repeat-delay": 120,
       "messages": [
-        "Subscribe to SirMax"
+        "Subscribe to SirMax on Youtube!"
       ]
     },
     "chat-log": true,
