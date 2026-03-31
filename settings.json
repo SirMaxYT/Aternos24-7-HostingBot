@@ -7,7 +7,7 @@
   },
   "server": {
     "ip": "mrmax.falix.gg",
-    "port":  "48644",
+    "port":  "",
     "version": "1.21.11",
     "try-creative": false
   },
